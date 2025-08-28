@@ -1,0 +1,27 @@
+div{
+background-color: white;
+text-align: center;
+border-radius: 15px;
+padding: 20px;
+margin: 50px 200px 50px 200px;
+width: 500px;
+}
+p{
+    text-align: center;
+    margin: 3px;
+    font-size: 15px;
+}
+h2{
+    text-align: center;
+    margin: 3px;
+    font-family: outfit;
+}
+img{
+    border-radius: 10px;
+    width: 90%;
+}
+body{
+    background-color: hsl(212, 45%, 89%);
+    align-items: center;
+
+}
